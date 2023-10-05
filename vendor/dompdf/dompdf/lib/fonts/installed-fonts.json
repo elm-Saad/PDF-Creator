@@ -1,0 +1,8 @@
+{
+    "public sans": {
+        "300": "C:\\xampp\\htdocs\\PHP_API\\first_project\\vendor\\dompdf\\dompdf\/lib\/fonts\/public_sans_300_a32b0f53d92698effb9f6890ec5dffdc",
+        "normal": "C:\\xampp\\htdocs\\PHP_API\\first_project\\vendor\\dompdf\\dompdf\/lib\/fonts\/public_sans_normal_dfa05d08287bcd1d1d995eb1b21fd101",
+        "600": "C:\\xampp\\htdocs\\PHP_API\\first_project\\vendor\\dompdf\\dompdf\/lib\/fonts\/public_sans_600_8570cdb5fbb80ecdad4dd8164ff3b49b",
+        "bold": "public_sans_bold_d5a12de6d381386375a53c00843755b6"
+    }
+}
